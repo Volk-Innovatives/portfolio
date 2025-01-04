@@ -11226,10 +11226,6 @@ html [class*='section-'].section-top-0 {
 }
 
 @media (min-width: 1600px) {
-	.section-fluid {
-		padding-left: 75px;
-		padding-right: 75px;
-	}
 	.section-fluid .container-fluid {
 		padding-left: 0;
 		padding-right: 0;
@@ -11799,6 +11795,8 @@ html [class*='section-'].section-top-0 {
 }
 
 .text-width-large {
+    color: #ffffff;
+    font-size: 20px;
 	max-width: 650px;
 }
 
